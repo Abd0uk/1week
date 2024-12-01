@@ -1,0 +1,15 @@
+git - version control tool
+
+keep track of changes to code - snapshots
+branches - best practices
+
+git clone
+git add <filename> or git add .
+git commit -m "chnages made" 
+git status
+git push
+
+
+to do learn before moving to the next lecture
+[]-ssh with github 
+[]- markdown language
