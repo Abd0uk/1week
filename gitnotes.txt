@@ -5,11 +5,25 @@ branches - best practices
 
 git clone
 git add <filename> or git add .
-git commit -m "chnages made" 
+git commit -m "chnages made"  or git commit -am "chnages made"  for compine add and commit
 git status
 git push
 
+git pull
+
+
+Merge Conflicts
+
+every commit has a hash 
+
+options 
+keep the local commit 
+keep the remote commit 
+merge them
+
+how it work 
+
 
 to do learn before moving to the next lecture
-[]-ssh with github 
-[]- markdown language
+[] -ssh with github 
+[] -markdown language
