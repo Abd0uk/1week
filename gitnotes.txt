@@ -27,10 +27,7 @@ how it work
 
 
 to do learn before moving to the next lecture
-<<<<<<< HEAD
 [] -ssh with github 
 [] -markdown language
-=======
 []-ssh with github 
 []- markdown language
->>>>>>> c93362990e37d0c371f1b72c81b946cc8eab0396
