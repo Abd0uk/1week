@@ -23,7 +23,8 @@ keep the local commit
 keep the remote commit 
 merge them
 
-how it work 
+
+
 
 
 to do learn before moving to the next lecture
